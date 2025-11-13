@@ -167,10 +167,20 @@ logs/                          # TensorBoard logs
 * **Extensibility**: Modify `opt` for new degradations or tweak architecture
 
 ---
+## Collaborators
 
-## Contact
+* **Mitali Purwar**
+    * Email: mitaliofficial21@gmail.com
+    * GitHub: [MitaliPurwar21](https://github.com/MitaliPurwar21)
 
-For questions or issues: ashwathrock20@gmail.com
+* **Sankhasubhra Ghosal**
+    * Email: sankhasubhraghosal@gmail.com
+    * GitHub: [SankhaS](https://github.com/SankhaS)
+
+* **Madhur Maheshwari**
+    * Email: madhur2k3@gmail.com
+    * GitHub: [madhur2003](https://github.com/madhur2003)
+
 
 ```
 
